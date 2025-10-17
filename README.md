@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tevin
+- 👋 Hi, I’m @Davietop
 - 👀 I’m interested in Learning and meeting people of likeminds...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a web chat application
